@@ -1,4 +1,5 @@
 # Nuxt Spots Project
+
 ## Setup
 
 Make sure to install dependencies:
@@ -32,4 +33,3 @@ Locally preview production build:
 # npm
 npm run preview
 ```
-
